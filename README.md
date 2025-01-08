@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Marcelooll
-- 👀 I’m interested in ... Programation, Software Engineering, Games, IA
-- 🌱 I’m currently learning ... I am learning python and java language, through several courses in Brazil.
+- 👀 I’m interested in ... Programming, CS, Software Engineering, Games, IA, Java
+- 🌱 I’m currently learning ... I am learning a lot about java and CS related stuff, through several courses in Brazil.
 - 💞️ I’m looking to collaborate on ...I am accepting any collaboration at the moment, to have several projects in my career, but my preferences are: Creation of websites and programs
 - 📫 How to reach me ... Send me a email
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I really want to learn how to develop (complex) games, and I'm learning how to use Lua in roblox studio, for fun!!
+- ⚡ Fun fact: Started programming because of sci-fi movies and watching some videos of guys creating indie games in brazil
 
 <!---
 Marcelooll/Marcelooll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
