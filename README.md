@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um jovem estudante apaixonado por tecnolo
 - 💡 Tenho interesse em **BackEnd, Java, Armazenamento e organização de dados, Web Development**.
 
 ## 🛠️ Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white&width=100)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
@@ -22,17 +22,19 @@ Bem-vindo ao meu perfil no GitHub! Sou um jovem estudante apaixonado por tecnolo
 ## 🏆 Contribuições no GitHub
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Marcelool&theme=radical)
 
-## 🛠️ Hard Skills & Soft Skills
-
-| **Hard Skills**        | **Soft Skills**            |
-|------------------------|----------------------------|
-| Java                   | Comunicação                |
-| SQL                    | Curiosidade                |
-| Git                    | Disposição                 |
-| Springboot             | Resiliência                |
+## 🎯 Habilidades
+| **Hard Skills**       | **Soft Skills**         |
+|----------------------|-----------------------|
+| Java                | Comunicação           |
+| SQL                 | Curiosidade           |
+| Git                 | Disposição            |
+| Spring Boot         | Resolução de Problemas |
 
 ## 📬 Contato
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloggamer27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-gabriel-alves-99375b304/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.gabrl/)
 [![DIO](https://img.shields.io/badge/DIO-FF5A00?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/marceloggamer27)
+
+## 🌍 Linguagens 
+[![English](https://img.shields.io/badge/EN-English-blue?style=for-the-badge)](EN-README.md)
