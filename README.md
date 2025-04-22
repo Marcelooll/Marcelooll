@@ -37,4 +37,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um jovem estudante apaixonado por tecnolo
 [![DIO](https://img.shields.io/badge/DIO-FF5A00?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/marceloggamer27)
 
 ## 🌍 Linguagens 
-[![English](https://img.shields.io/badge/EN-English-blue?style=for-the-badge)](EN-README .md)
+[![English](https://img.shields.io/badge/EN-English-blue?style=for-the-badge)](EN-README.md)
